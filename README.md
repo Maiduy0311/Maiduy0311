@@ -1,3 +1,5 @@
+ Hi, everyone!
+
 - 👋 Hi, I’m Mai Duy
 - 👀 I’m interested in Reactjs framework
 - 🌱 I’m currently learning: Javascript, Reactjs
